@@ -21,7 +21,7 @@ The app will:
 ## How to Use It
 
 **Live app:**  
-[https://olioschanz-csv-sniper.streamlit.app](https://olioschanz-csv-sniper.streamlit.app)
+([https://olioschanz-csv-sniper.streamlit.app](https://csv-sniper.streamlit.app/))
 
 **Local use:**
 ```bash
