@@ -4,7 +4,7 @@ A Streamlit web app that matches email addresses between two CSV files.
 
 ---
 
-## 🔧 What It Does
+## What It Does
 
 Upload two CSV files:
 - **First file** (your primary contact list)
@@ -18,10 +18,10 @@ The app will:
 
 ---
 
-## 📦 How to Use It
+## How to Use It
 
 **Live app:**  
-👉 [https://olioschanz-csv-sniper.streamlit.app](https://olioschanz-csv-sniper.streamlit.app)
+[https://olioschanz-csv-sniper.streamlit.app](https://olioschanz-csv-sniper.streamlit.app)
 
 **Local use:**
 ```bash
