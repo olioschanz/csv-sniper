@@ -1,7 +1,6 @@
 # 🎯 CSV Sniper
 
-**Lock. Match. Extract.**  
-CSV Sniper is a Streamlit web app that matches email addresses between two CSV files with surgical precision.
+A Streamlit web app that matches email addresses between two CSV files.
 
 ---
 
@@ -12,7 +11,7 @@ Upload two CSV files:
 - **Second file** (reference list)
 
 The app will:
-- Identify and normalize the email column (even if it’s named `Email`, `emails`, etc.)
+- Identify and normalize the email column
 - Match email addresses between the two files
 - Display the matched rows from your first file
 - Let you **download** the matched results as a CSV
